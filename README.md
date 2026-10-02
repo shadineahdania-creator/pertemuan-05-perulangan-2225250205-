@@ -1,8 +1,7 @@
 # Pertemuan 05 Perulangan Python
 Nama: Shadine Ahdania Sofyan
-NIM: [Isi NIM Anda]
-Kelas: Pendidikan Matematika [Isi Kelas/Grup Anda]
-
+NIM: 2225250205
+Kelas: 3B
 ## Tujuan
 Menggunakan for dan while untuk menyelesaikan masalah iteratif.
 
